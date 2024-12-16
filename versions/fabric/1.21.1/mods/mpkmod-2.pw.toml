@@ -1,0 +1,13 @@
+name = "MPKMod 2"
+filename = "mpkmod-2.0-pre.11-fabric-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/412tAvWq/versions/qI2x4FoH/mpkmod-2.0-pre.11-fabric-1.21.jar"
+hash-format = "sha1"
+hash = "30741cd7d14f2b569c85e39c433a188643f4948c"
+
+[update]
+[update.modrinth]
+mod-id = "412tAvWq"
+version = "qI2x4FoH"
