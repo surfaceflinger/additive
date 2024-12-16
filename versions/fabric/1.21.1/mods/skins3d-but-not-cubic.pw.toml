@@ -1,0 +1,13 @@
+name = "Skins3D but not cubic"
+filename = "liukrast-skins3d-3.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AKaIjIT0/versions/BspjZUJ0/liukrast-skins3d-3.0.1.jar"
+hash-format = "sha1"
+hash = "930f5e0072206b94fc4887baed626582098c01b4"
+
+[update]
+[update.modrinth]
+mod-id = "AKaIjIT0"
+version = "BspjZUJ0"
