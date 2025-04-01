@@ -1,0 +1,9 @@
+name = "Sakura Hotbar"
+filename = "sakurahotbar.zip"
+side = "client"
+
+[download]
+url = "https://github.com/surfaceflinger/sakura-hotbar/releases/download/1.20.6-1/sakurahotbar.zip"
+
+hash-format = "sha256"
+hash = "325c3eeb9e3079effe09b94aa7da3e6a9a72bff878258bec986e756772dd4590"
