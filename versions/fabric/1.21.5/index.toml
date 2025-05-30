@@ -26,7 +26,7 @@ hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "dda5b7b8f667e02c239390c96f2a6f84d2224c7be2449e2a75a2a7fc5a96e636"
+hash = "3c76b1633367542409d7e42c8b96efd44a7cd313b8435c9df6101f38a5d000b8"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -50,7 +50,7 @@ hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
-hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
+hash = "69309f34323661f6cec82e7a6ad1fceada440ebc1aaea15b696436c0bfae98c4"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -62,7 +62,7 @@ hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
+hash = "39f0fc19618f38c4cdedf2fcc9c284518a30d2c11256f0dcca893ff5c785436c"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -71,6 +71,10 @@ hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+
+[[files]]
+file = "config/yosbr/config/ok_zoomer/config.toml"
+hash = "2051171cffcf28c6f693f745a9ebce9fd455f9956967575df9607906e93caf7e"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -87,6 +91,10 @@ hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
 [[files]]
 file = "config/yosbr/config/servercore/optimizations.yml"
 hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "945fd186e8d66602c7b31047cd58c52b6f0c43dc6774277728e6c860010d1502"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -106,7 +114,11 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
+hash = "522310440c6d4db3efdf27842023f9b5ee9f5aba2ccb751e3b55a24266e37aa7"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "db61a98ed4d9f35800244ba06112b39e0bf6b14b00450aea8b048e323906e0dd"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -126,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
 
 [[files]]
@@ -259,8 +276,23 @@ hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "e94c47d7679c5a6a4a3deccaa7bba8f7c3961a70f6c03c32adc809d7135c87cc"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "ea1d303d34de75ef3745a218e1e48fa72cc0e04265142ed27345fdede5b1d954"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
 metafile = true
 
 [[files]]
@@ -289,6 +321,11 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/server-pack-unlocker.pw.toml"
+hash = "5c4d91b12d98ab2114129d24500254c0d6e6df3bab66af21367d09a4cfbdf9e5"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "08e7fcbf0eb89fd14ebbbe9f041c60c5b5cd63e5554386766b6ef7476e7ed65a"
 metafile = true
@@ -306,6 +343,16 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "06edcd8b8277da7d61696672502c3e0c2952dc97f03115be5b38ccdf598f0d27"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
 metafile = true
 
 [[files]]
@@ -331,4 +378,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sakura-hotbar.pw.toml"
+hash = "44e29f11c82e26826cc042f2ac6713414501d95f42debcbe5d437e2594469478"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "ac5488193ee7485a8c107bfd43dfd7baf9e02f8bb34d82a648eb843ca50e8d6d"
 metafile = true
